@@ -23,9 +23,6 @@
     <string name="quit_game_title">关闭游戏</string>
     <string name="load_state_title">读取进度</string>
     <string name="save_state_title">保存进度</string>
-    <string name="delete_rom">删除 ROM</string>
-    <string name="clear_saves">清除游戏存档</string>
-    <string name="clear_cheats">清除秘籍</string>
 
     <!-- state slots -->
     <string name="slot_quick">快速存档</string>
@@ -168,8 +165,6 @@
     <string name="use_input_method_summary">开启特殊输入设备（例如：蓝牙手柄）</string>
     <string name="app_about">关于 Nes模拟器</string>
     <string name="upgrade">更新</string>
-    <string name="license">链接</string>
-    <string name="legal">法律</string>
     <string name="press_key_prompt">请按下任意物理按键...</string>
     <string name="key_none">&lt;空的></string>
     <string name="key_unknown">&lt;未知的></string>
